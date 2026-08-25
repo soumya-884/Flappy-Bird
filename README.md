@@ -34,3 +34,6 @@ A simple Flappy Bird-style game built using **Java** as a practice project to im
 This project was created as part of my journey to improve my **Java programming, problem-solving, game development, and OOP skills**.
 
 It was built from scratch as a hands-on project to understand how real-time game mechanics work in Java.
+## 🎮 Gameplay
+
+![Flappy Bird Gameplay](GamePlay-flappyBird.png)
